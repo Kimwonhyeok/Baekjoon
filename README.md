@@ -1,2 +1,2 @@
 # Baekjoon
-Bacekjoon problem solving.
+Baekjoon problem solving.
